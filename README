@@ -1,0 +1,7 @@
+During my PhD I worked with Groovy for a period of time within the context of XMPP.
+A simulation involving group IDs within XMPP was carried out using Groovy
+and is included here. Some work on Grails will be uploaded over time.
+
+
+- GID: A Group ID simulation to investiagate the behavior of the XMPP roster
+during load, including multiple XMPP rosters signed into the one client.
